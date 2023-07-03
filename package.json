@@ -39,6 +39,6 @@
 		"@sentry/sveltekit": "^7.56.0"
 	},
 	"engines": {
-		"node": ">=16.0.0"
+		"node": "^16.0.0"
 	}
 }
