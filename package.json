@@ -36,5 +36,8 @@
 	"type": "module",
 	"dependencies": {
 		"@sentry/sveltekit": "^7.56.0"
+	},
+	"engines": {
+		"node": ">=18.0.0"
 	}
 }
